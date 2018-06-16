@@ -1,0 +1,3 @@
+#myhost
+127.0.0.1 www.ifanr.com
+127.0.0.1 www.techbang.com
